@@ -17,6 +17,6 @@ I specialize in building end-to-end spatial data pipelines, processing Earth Obs
 
 [Sub-Saharan Climate Dynamics Suite](https://github.com/abeylicious/Subsaharan-Africa-climate-dynamics-suite): 50-year climate reanalysis evaluating thermal maximums in Maiduguri and coastal rainfall patterns in Lagos.
 
-[Cropland Phenology Tracking](link-to-repo): High-resolution (10m) Sentinel-2 NDVI time series tracking crop growth cycles in Nasarawa State.
+[Cropland Phenology Tracking](https://github.com/abeylicious/nasarawa--cropland-phenology-sentinel2): High-resolution (10m) Sentinel-2 NDVI time series tracking crop growth cycles in Nasarawa State.
 
 [Lagos & Ogun Decade Settlement Expansion & Nighttime Lights Analysis](link-to-repo):10-year spatiotemporal change detection of land settlement growth from Lagos into Ogun State using VIIRS NTL in GEE.
