@@ -7,7 +7,7 @@ I specialize in building end-to-end spatial data pipelines, processing Earth Obs
 
 ### 🛠️ Core Capabilities & Tech Stack
 * **Geospatial & Earth Observation:** Google Earth Engine (JavaScript/Python API), ArcGIS Pro, QGIS, Remote Sensing, Spatial Statistics.
-* **Data Analytics & ETL:** Python (Pandas, GeoPandas, NumPy), Stata, SQL (PostgreSQL, MySQL), Power Query.
+* **Data Analytics:** Python (Pandas, GeoPandas, NumPy), Stata, SQL (PostgreSQL, MySQL), Power Query.
 * **Business Intelligence & Collection:** Power BI (Advanced DAX), Tableau, ODK Central, KoboToolbox, Mobile Data Pipelines.
 
 ---
