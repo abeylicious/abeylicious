@@ -1,22 +1,34 @@
-# Hi, I'm Abiodun Iyanda 👋
+# Hi, I'm Abiodun Iyanda 👋 
 ### Geospatial Data Analyst & Information Management Specialist
 
-I specialize in building end-to-end spatial data pipelines, processing Earth Observation imagery (Google Earth Engine, Sentinel, Landsat,TerraClimate, VIIRS), and integrating spatial intelligence with enterprise database architectures (SQL, Stata, Python, Power BI).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abiodun-iyanda-35bb2537/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Earth%20Observation%20Suite-green)](https://github.com/abeylicious/nigeria-earth-observation-suite)
+
+I specialize in building end-to-end spatial data pipelines, processing multi-sensor Earth Observation imagery (**Google Earth Engine, Sentinel-1/2, Landsat, TerraClimate, VIIRS**), and integrating spatial intelligence with database architectures (**Python, SQL, Stata, Power BI**).
 
 ---
 
-### 🛠️ Core Capabilities & Tech Stack
-* **Geospatial & Earth Observation:** Google Earth Engine (JavaScript/Python API), ArcGIS Pro, QGIS, Remote Sensing, Spatial Statistics.
-* **Data Analytics:** Python (Pandas, GeoPandas, NumPy), Stata, SQL (PostgreSQL, MySQL), Power Query.
-* **Business Intelligence & Collection:** Power BI (Advanced DAX), Tableau, ODK Central, KoboToolbox, Mobile Data Pipelines.
+## 🇳🇬 Flagship Monorepo
+
+### 🌟 [Nigeria Earth Observation Suite](https://github.com/abeylicious/nigeria-earth-observation-suite)
+> A comprehensive suite compiling four end-to-end Earth Observation case studies across Nigeria:
+> * **01. Interstate Urban Encroachment:** 10-year spatiotemporal settlement sprawl across the Lagos–Ogun corridor using VIIRS Nighttime Lights.
+> * **02. Capital Settlement Dynamics:** Baseline growth and satellite city radiance tracking across Abuja FCT (2015–2025).
+> * **03. Dual-Zone Climate Analysis:** 20-year hydro-thermal analysis comparing thermal maximums in Maiduguri against precipitation dynamics in Lagos using TerraClimate/ERA5.
+> * **04. Cropland Phenology Tracking:** High-resolution (10m) Sentinel-2 NDVI time-series analysis tracking crop growth cycles and field inundation at Rukubu Farm, Nasarawa State.
 
 ---
 
-### 🛰️ Featured Earth Observation & Analytics Projects
-[Abuja Decade Settlement Expansion & Nighttime Lights Analysis](https://github.com/abeylicious/Abuja--ntl-decade-expansion): 10-year spatiotemporal change detection of land settlement growth using VIIRS NTL in GEE.
+## 🛠️ Core Capabilities & Tech Stack
 
-[Sub-Saharan Climate Dynamics Suite](https://github.com/abeylicious/Subsaharan-Africa-climate-dynamics-suite): 50-year climate reanalysis evaluating thermal maximums in Maiduguri and coastal rainfall patterns in Lagos.
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **Earth Observation & GIS** | Google Earth Engine (JavaScript/Python API), QGIS, ArcGIS Pro, Remote Sensing, Sentinel-1/2, Landsat, VIIRS |
+| **Spatial Analytics & Science** | Python (`GeoPandas`, `Pandas`, `NumPy`, `Rasterio`), Stata, SQL (`PostgreSQL`, `MySQL`), Spatial Statistics |
+| **Field Data & BI** | ODK Central, KoboToolbox, Mobile Data Pipelines, Power BI (Advanced DAX), Tableau |
 
-[Cropland Phenology Tracking](https://github.com/abeylicious/nasarawa--cropland-phenology-sentinel2): High-resolution (10m) Sentinel-2 NDVI time series tracking crop growth cycles in Nasarawa State.
+---
 
-[Lagos & Ogun Decade Settlement Expansion & Nighttime Lights Analysis](link-to-repo):10-year spatiotemporal change detection of land settlement growth from Lagos into Ogun State using VIIRS NTL in GEE.
+## 📬 Connect with Me
+* **Email:** [iyanda.abiodun@gmail.com](mailto:iyanda.abiodun@gmail.com)
+* **LinkedIn:** [Abiodun Iyanda](https://www.linkedin.com/in/abiodun-iyanda-35bb2537/)
